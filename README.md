@@ -1,6 +1,6 @@
 # Sample-task
 
-SampleTask is a simple REST API, which is built to solve a problem provided by Sample.
+SampleTask is a simple REST API.
 
 It’s built with JavaScript – a very light [node](https://nodejs.org) plus [express](http://expressjs.com) server, [mongo](https://www.mongodb.com/) database.
 
